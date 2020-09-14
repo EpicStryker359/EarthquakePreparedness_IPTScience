@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,500;0,700;1,300&display=swap');
+body {
+    background-image: url("ScienceWebsiteBackground.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    color: white;
+    font-family: Raleway;
+    overflow-x: hidden;
+}
+footer {
+    bottom: 0px;
+    position: fixed;
+    color: white;
+    font-family: Raleway;
+    font-weight: lighter;
+}
+
+.TitleTab {
+    display: inline-block;
+    position: relative;
+    left: 25%;
+    margin-top: .5%;
+    margin-bottom:1.5%;
+}
+
+.titleText{
+    margin-left: 60px;
+    position:relative;
+    top: -65px;
+    letter-spacing: 30px;
+    font-size: 40px;
+    font-weight: lighter;
+    display: inline-block;
+}
+.TitleTab:hover{
+    opacity:.5;
+}
+
+.titleIntro{
+    text-align:center;
+    font-weight: normal;
+    font-size:35px;
+    letter-spacing: 12px;
+    margin-bottom:2%;
+}
+.titleIntro:hover{
+    opacity:.5;
+}
+.contentIntro{
+    position:relative;
+    text-align:center;
+    line-height: 40px;
+    letter-spacing: 2px;
+    font-size:25px;
+    font-weight: lighter;
+    margin-bottom: 3%;
+}
+.links{
+    position:relative;
+    left:33%;
+    margin-bottom: 5%;
+}
+.equakelinks{
+    font-family:Raleway;
+    background-color: black;
+    margin: 10px;
+    padding: 8px;
+    font-size: 30px;
+    text-decoration:none;
+    color:white;
+}
+.equakelinks:hover{
+    background-color: #390a0a;
+}
+.arrowLink{
+    position:relative;
+    left:44%;
+    margin-bottom: 10%;
+}
+.arrowLink:hover{
+    opacity: .5;
+}
+.arrowLink2{
+    position:relative;
+    left:44%;
+    margin-bottom: 15%;
+}
+.arrowLink2:hover{
+    opacity: .5;
+}
+
+
+.whyTitle{
+    text-align:center;
+    letter-spacing:10px;
+    font-weight: normal;
+    margin-bottom: 2%;
+}
+.whyTitle:hover{
+    opacity:.5;
+}
+.whyContent{
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-align:center;
+    font-weight: lighter;
+    margin-bottom: 4%;
+}
+
+.equakeimage{
+    padding:20px;
+}
+.equakeimage:hover{
+    opacity:.5;
+}
+.equakeimages {
+    position:relative;
+    left: 35%;
+    margin-bottom: 5%;
+}
+
+.whatTitle {
+    text-align: center;
+    letter-spacing: 15px;
+    font-weight: normal;
+    margin-bottom: 3%;
+}
+
+.equakebuttons{
+    position:relative;
+    left:29%;
+}
+.equakebutton{
+    font-family:Raleway;
+    font-size: 27px;
+    color:white;
+    background-color:black;
+    border:none;
+    outline:none;
+    margin-left:1.5%;
+    padding: 7px;
+    letter-spacing: 7px;
+    margin-bottom: 1.5%;
+}
+.equakebutton:hover{
+    color:#db3c3c;
+}
+
+.whatContent{
+    font-weight: lighter;
+    visibility: hidden;
+    text-align:center;
+    letter-spacing: 5px;
+    line-height:60px;
+    margin-bottom: 3%;
+}
+
+.whatimages{
+    position:relative;
+    left: 43%;
+    visibility:hidden;
+    margin-bottom:3%;
+}
+
+
+
